@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --cor1 : #455559;
+    --cor2:  #3D5A73;
+    --cor3:  #2F3D40;
+    --cor4:  #28403D;
+    --cor5:  #182625;
+
+    --font1: "PT Serif", serif;
+}
+
