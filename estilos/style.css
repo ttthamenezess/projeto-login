@@ -31,6 +31,11 @@ main{
     width: 100vw;
 }
 
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 section#login{
     background-color: white;
     width: 250px;
@@ -57,4 +62,8 @@ section#login > div#imagem{
 section#login > div#formulario{
     display: block;
     padding: 10px;
+}
+ 
+div#formulario > p {
+    font-size: 0.8em;
 }
